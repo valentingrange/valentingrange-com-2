@@ -10,7 +10,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
     // Définition des routes pour les pages
     const routes = {
-        "": "jeux-videos/mario-odyssey/index.html",
+        "": "index.html",
         "jeux-videos/mario-odyssey": "jeux-videos/mario-odyssey/index.html",
         "jeux-videos/mario-odyssey/astuce": "jeux-videos/mario-odyssey/astuce.html",
         "jeux-videos/mario-odyssey/lunes": "jeux-videos/mario-odyssey/lunes/lunes.html",
